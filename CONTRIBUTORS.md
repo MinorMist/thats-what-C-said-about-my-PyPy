@@ -59,6 +59,11 @@
 - Bio: Third year B.Tech Computer Science A.I. Student, loves intelligent technologies 
 - GitHub: [Sudi050](https://github.com/sudi050/)
 
+#### Name: [Achyut M Sharma](www.linkedin.com/in/achyutmsharma)
+- Place: Kottayam, Kerala, India
+- Bio: MCA First year, Aspiring web dev and gamer
+- GitHub: [MinorMist](https://github.com/minormist)
+
 ### Name: [Boudhik Shaj] (https://www.linkedin.com/in/boudhik-shaj-098a3b20b/)
 -Place: Ernakulam, Kerala
 -Bio: Third Year Computer Science Student. love to solve puzzles and do coding while listening to music.
